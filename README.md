@@ -1,7 +1,7 @@
 Pokemon Project by Daniel Liu
 Created on Sublime Text 3
 
-Here is some cool ASCIIART:
+Here is some cool ASCIIART: (it looks weird on github for some reason)
 
     _   ___  ___ ___ ___ __  __  ___  _  _ 
    /_\ / __|/ __|_ _|_ _|  \/  |/ _ \| \| |
